@@ -305,9 +305,9 @@ python -m pytest tests/
 
 ## 📞 Support & Community
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/attune-voice-platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/YOUR_USERNAME/attune-voice-platform/discussions)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Issues**: [GitHub Issues](https://github.com/JakeD520/attune-voice-platform/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/JakeD520/attune-voice-platform/discussions)
+- **Email**: [your.jd01234.com](mailto:your.jd01234@gmail.com)
 
 ---
 
