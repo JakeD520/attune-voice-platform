@@ -1,0 +1,37 @@
+# Large binary tools - Don't include in repository
+tools/opensmile/
+tools/ffmpeg/
+
+# API Keys and credentials  
+api/keys/*
+*.key
+*.env
+config/api_keys.json
+
+# Large data files
+input/*.mp4
+input/*.avi
+input/*.mov
+input/*.mkv
+output/*/
+data/raw/*
+data/processed/*
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+
+# Analysis results (optional)
+*_features.csv
+*_features_fixed.csv
+
+# Temporary files
+temp/*
+logs/*
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

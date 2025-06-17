@@ -1,0 +1,16 @@
+
+ATTUNE VOICE ANALYSIS
+====================
+
+Analysis: Kim Velez Test_20250617_122958
+Creator: Kim Velez Test
+Date: 2025-06-17 12:30:03
+
+Results:
+- Audio extracted: Yes
+- Features extracted: Yes
+- Feature count: 1
+
+Tools used:
+- FFmpeg: Available
+- openSMILE: Available

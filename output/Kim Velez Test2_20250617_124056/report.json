@@ -1,0 +1,11 @@
+{
+  "analysis_name": "Kim Velez Test2_20250617_124056",
+  "creator": "Kim Velez Test2",
+  "audio_extracted": true,
+  "features_extracted": true,
+  "feature_count": 1,
+  "timestamp": "2025-06-17T12:41:01.603135",
+  "fixed_features_available": true,
+  "fixed_features_file": "videoplayback_audio_features_fixed.csv",
+  "fixed_feature_count": 89
+}
