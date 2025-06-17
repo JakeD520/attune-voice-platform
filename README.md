@@ -307,7 +307,7 @@ python -m pytest tests/
 
 - **Issues**: [GitHub Issues](https://github.com/JakeD520/attune-voice-platform/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/JakeD520/attune-voice-platform/discussions)
-- **Email**: [your.jd01234.com](mailto:your.jd01234@gmail.com)
+- **Email**: [jd01234.com](mailto:jd01234@gmail.com)
 
 ---
 
